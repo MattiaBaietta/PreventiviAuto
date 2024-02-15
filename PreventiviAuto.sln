@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreventiviAuto", "PreventiviAuto.csproj", "{55A00DDD-ADEA-4E1B-89F9-45806C44BC1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55A00DDD-ADEA-4E1B-89F9-45806C44BC1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A00DDD-ADEA-4E1B-89F9-45806C44BC1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A00DDD-ADEA-4E1B-89F9-45806C44BC1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A00DDD-ADEA-4E1B-89F9-45806C44BC1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9BCF11A-2580-41E8-B6DC-6F1EE8413D09}
+	EndGlobalSection
+EndGlobal
